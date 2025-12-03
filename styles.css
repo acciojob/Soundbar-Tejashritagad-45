@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+#buttons{
+	background-color:blueviolet;
+	height:100px;
+	width:500px;
+	padding:30px;
+	margin: 20px auto;
+}
+
+.btn{
+	background-color:blueviolet;
+	
+}
+
+.stop{
+	background-color:blueviolet
+}
